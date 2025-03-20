@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition elemento PEP'
+define service Z_SD_HBT_DEMPROY_PEP {
+  expose Z_HBT_DEMPROY_PEP;
+}
